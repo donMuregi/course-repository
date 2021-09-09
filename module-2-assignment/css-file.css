@@ -1,1 +1,15 @@
-.
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: #0000ff;
+    text-align: center;
+}
+h2{
+    color: aqua;
+}
+section{
+    width: 33.33%;
+    position: relative;
+    height: 150px;
+}
